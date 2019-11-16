@@ -13,7 +13,7 @@ Other possible ways of being gifted with psionic abilities could be:
 * Interacting with a Resonance Collider. [Gives the character a random psionic mutation upon successful activation, and after waiting out the effects of the Resonance Collider]
 * Entering Portals. [Also gives a random chance of earning a random psionic ability, portals should only check this once and then a new portal must be found in order to mess with it.]	
 
-At the moment, The theme for psychic abilities is centered around cosmic horror, a strong asset of CDDA itself. Luckily CDDA has plenty to go off in terms of lore excuses to utilize for flavour in terms of the psionics and how one can obtain them.
+At the moment, The theme for psychic abilities is centered around cosmic horror, a strong asset of CDDA itself. Luckily CDDA has plenty to go off in terms of lore excuses to utilize for flavour in terms of the psionics and how one can obtain them. I would personally like for psionics to be just as terrifying to the individual utilizing and experiencing them as they are useful both in game and in lore sense.
 
 Currently, I have ideas in mind for certain effects' abilities, though I am totally open to suggestions on the matter. This is a current list of ideas and traits involved in this process, these ideas can also be interlinked or mixed, as I imagine it'll be a mix of these ideas more-so.
 
