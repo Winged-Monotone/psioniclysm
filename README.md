@@ -1,4 +1,4 @@
-# psi-clysm
+# psioniclysm
 "A cdda mod aimed to add psionic manifestations and powers to the cdda universe."
 
 This is an open active mod, anyone is able to inquire about where its going and how its going to get there. Suggestions are welcome.
